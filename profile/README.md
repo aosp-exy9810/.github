@@ -1,11 +1,12 @@
-![image](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.techcenturion.com%2Fwp-content%2Fuploads%2F2018%2F05%2FExynos-9810.jpg&f=1&nofb=1&ipt=e9c52e522bf13cb900d1d2cbcee68f2f711bd7648c65422c3cf229259aaccfc2&ipo=images)
+![exynos](https://github.com/user-attachments/assets/a34529ca-57fd-476c-81ea-57ca294e0562)
+
 ### *Exynos9810 Trees kanged from [Krazey](https://github.com/ExyHyperBrick). Builds Android14 QPR3, doesnt boot yet*
 
 ---
 
 ## Manifest
 ``` 
-git clone https://github.com/CrownTrailTrees9810/9810 -b main .repo/local_manifests
+git clone https://github.com/aosp-exy9810/9810 -b main .repo/local_manifests
 ```
 
 ## Device Trees
