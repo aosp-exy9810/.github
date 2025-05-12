@@ -8,23 +8,24 @@
 ``` 
 git clone https://github.com/aosp-exy9810/9810 -b main .repo/local_manifests
 ```
+- [9810](https://github.com/aosp-exy9810/9810/)
 
 ## Device Trees
-- [device_samsung_exynos9810-common](https://github.com/CrownTrailTrees9810/device_samsung_exynos9810-common/)
+- [device_samsung_exynos9810-common](https://github.com/aosp-exy9810/device_samsung_exynos9810-common/)
 
-- [device_samsung_starlte](https://github.com/CrownTrailTrees9810/device_samsung_starlte/)
-- [device_samsung_star2lte](https://github.com/CrownTrailTrees9810/device_samsung_star2lte/)
-- [device_samsung_crownlte](https://github.com/CrownTrailTrees9810/device_samsung_crownlte/)
+- [device_samsung_starlte](https://github.com/aosp-exy9810/device_samsung_starlte/)
+- [device_samsung_star2lte](https://github.com/aosp-exy9810/device_samsung_star2lte/)
+- [device_samsung_crownlte](https://github.com/aosp-exy9810/device_samsung_crownlte/)
 
 ## Vendor Trees
-- [vendor_samsung_exynos9810-common](https://github.com/CrownTrailTrees9810/vendor_samsung_exynos9810-common/)
+- [vendor_samsung_exynos9810-common](https://github.com/aosp-exy9810/vendor_samsung_exynos9810-common/)
 
-- [vendor_samsung_starlte](https://github.com/CrownTrailTrees9810/vendor_samsung_starlte/)
-- [vendor_samsung_star2lte](https://github.com/CrownTrailTrees9810/vendor_samsung_star2lte/)
-- [vendor_samsung_crownlte](https://github.com/CrownTrailTrees9810/vendor_samsung_crownlte/)
+- [vendor_samsung_starlte](https://github.com/aosp-exy9810/vendor_samsung_starlte/)
+- [vendor_samsung_star2lte](https://github.com/aosp-exy9810/vendor_samsung_star2lte/)
+- [vendor_samsung_crownlte](https://github.com/aosp-exy9810/vendor_samsung_crownlte/)
 
 ## Kernel
-- [kernel_samsung_exynos9810](https://github.com/CrownTrailTrees9810/kernel_samsung_exynos9810/)
+- [kernel_samsung_exynos9810](https://github.com/aosp-exy9810/kernel_samsung_exynos9810/)
 
 
 ## Additional Repos
