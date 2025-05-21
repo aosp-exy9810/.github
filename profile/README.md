@@ -29,8 +29,10 @@ git clone https://github.com/aosp-exy9810/9810 -b main .repo/local_manifests
 
 
 ## Additional Repos
-- [device_samsung_slsi_sepolicy](https://github.com/LineageOS/android_device_samsung_slsi_sepolicy)
 - [hardware_samsung](https://github.com/LineageOS/android_hardware_samsung)
+
+### Unused but may be implemented later
+- [device_samsung_slsi_sepolicy](https://github.com/LineageOS/android_device_samsung_slsi_sepolicy)
 - [hardware_samsung_slsi-linaro_config](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_config)
 - [hardware_samsung_slsi-linaro_exynos](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_exynos)
 - [hardware_samsung_slsi-linaro_graphics](https://github.com/LineageOS/android_hardware_samsung_slsi-linaro_graphics)
